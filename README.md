@@ -79,7 +79,7 @@
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7msrcharan%7D/count.svg" alt="visitor badge"/></p>
-
+![](https://komarev.com/ghpvc/?username=msrcharan&style=flat-square)
 <hr>
 
 
