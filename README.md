@@ -26,7 +26,7 @@
 
 <p>
   <em>
-    Hello, I am Sricharan Muttineni an <b> undergraduate student </b> from <a target="blank" href="https://srmap.edu.in/"> <b>SRM University</b>, Andhra Pradesh</a>. <br>
+    Hello, I am Sricharan Muttineni an <b> graduate student </b> from <a target="blank" href="https://uga.edu/"> <b>University of Georgia</b>, Athens</a>. <br>
     <b>a passionate self-learner</b> &nbsp; I am a <b>full stack developer</b> who likes to develop several exciting applications and I'm constantly exploring new technologies and tools to improve my craft. &nbsp; I am interested in the field of <b>Data Science</b>. I worked in many deep learning and computer vision projects in the medical field to analyse the anomalies.
 </p>
  
