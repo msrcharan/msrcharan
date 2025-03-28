@@ -3,7 +3,7 @@
 <br>
 
  <p>
-<img src="https://img.shields.io/badge/Age-21-blue" />
+<img src="https://img.shields.io/badge/Age-24-blue" />
 <img src="https://img.shields.io/badge/Lives-India-success" />
 <img src="https://img.shields.io/badge/Languages-English,Telugu%20%26%20Hindi-brightgreen" />
 </p>
