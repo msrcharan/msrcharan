@@ -11,14 +11,13 @@
 <h3>Interests: Robotics | Full Stack Development | Data Analytics | Computer Vision</h3>
 
 <p>
-<a href="https://www.linkedin.com/in/sricharan-muttineni/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="charan" height="40" width="40" /></a> &nbsp;
-
-<a href="https://twitter.com/sricharanmuttin" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png" alt="charan" height="40" width="40" /></a> &nbsp;
+<a href="https://www.linkedin.com/in/sricharan-muttineni/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="charan" height="40" width="40" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/sricharanmuttin" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png" alt="charan" height="40" width="40" /></a>
 </p>
 
 <hr>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">&nbsp;***About me !*** 
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> ***About me !*** 
 
 <p>
   <em>
@@ -35,30 +34,30 @@
 <br>
 <hr>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">&nbsp;***Tech Stack !***  
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> ***Tech Stack !***  
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)  
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql&logoColor=4479A1)  
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)  
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask&logoColor=000000)  
-![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi&logoColor=009688)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)  
-![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch&logoColor=EE4C2C)  
-![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv&logoColor=5C3EE8)  
-![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-05122A?style=flat&logo=scikit-learn&logoColor=F7931E)  
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)  
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)  
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)  
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)  
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ED)  
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws&logoColor=FF9900)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)  
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=FCC624)  
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=jupyter&logoColor=F37626)  
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)  
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql&logoColor=4479A1)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask&logoColor=000000)&nbsp;
+![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi&logoColor=009688)&nbsp;
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch&logoColor=EE4C2C)&nbsp;
+![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv&logoColor=5C3EE8)&nbsp;
+![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-05122A?style=flat&logo=scikit-learn&logoColor=F7931E)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ED)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws&logoColor=FF9900)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=FCC624)&nbsp;
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=jupyter&logoColor=F37626)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <hr>
 
