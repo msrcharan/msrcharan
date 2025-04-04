@@ -67,7 +67,6 @@
 
 <hr>
 
-<p align="center"><b>Visitor's Count</b></p>
+<!--<p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/msrcharan/count.svg" alt="visitor badge"/></p>
 <!-- ![Visitor Count](https://profile-counter.glitch.me/msrcharan/count.svg) -->
-<hr>
