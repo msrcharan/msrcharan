@@ -11,8 +11,7 @@
 <h3>Interests: Robotics | Full Stack Development | Data Analytics | Computer Vision</h3>
 
 <p>
-<a href="https://www.linkedin.com/in/sricharan-muttineni/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="charan" height="40" width="40" /></a>&nbsp;&nbsp;
-<a href="https://twitter.com/sricharanmuttin" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png" alt="charan" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/charan-m91/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="charan" height="40" width="40" /></a>&nbsp;&nbsp;
 </p>
 
 <hr>
@@ -21,7 +20,7 @@
 
 <p>
   <em>
-    Hello, I am Sricharan Muttineni, a <b>graduate student</b> from <a target="_blank" href="https://uga.edu/"> <b>University of Georgia</b>, Athens</a>. I am a <b>full stack developer</b> who likes to develop several exciting applications and I'm constantly exploring new technologies and tools to improve my craft. I am interested in the field of <b>Data Science</b>. I worked in many deep learning and computer vision projects in the medical field to analyse the anomalies.
+    Hello, I am Charan, a <b>graduate student</b> from <a target="_blank" href="https://uga.edu/"> <b>University of Georgia</b>, Athens</a>. I am a <b>full stack developer</b> who likes to develop several exciting applications and I'm constantly exploring new technologies and tools to improve my craft. I am interested in the field of <b>Data Science</b>. I worked in many deep learning and computer vision projects in the medical field to analyse the anomalies.
 </p>
  
 <br>
