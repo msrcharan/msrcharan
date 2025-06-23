@@ -1,4 +1,4 @@
-## Hi, <img src="https://github.com/msrcharan/Overview/blob/main/Hi.gif" width="30px" height="30px"> I am Sricharan!
+## Hi, <img src="https://github.com/msrcharan/Overview/blob/main/Hi.gif" width="30px" height="30px"> I am Charan!
 <br>
 
 <p>
